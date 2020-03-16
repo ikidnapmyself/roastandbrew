@@ -1,6 +1,7 @@
 /vendor
 /node_modules
 /app/Photos
+/storage/*.key
 Homestead.yaml
 .env
 
